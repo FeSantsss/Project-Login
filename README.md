@@ -1,2 +1,2 @@
-# Project Login
- Mini projeto de um painel de Login, com atualizações futuras, adicionando novas coisas.
+# Project WebSite
+ Mini projeto de um site, com atualizações futuras, adicionando novas coisas.
