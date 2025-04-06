@@ -3,35 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto</title>
+    <title>NEXUS | Login</title>
     <link rel="stylesheet" href="loginstyle.css">
+    <link rel="shortcut icon" href="NexusIco.ico" type="image/x-icon">
 </head>
 <body>
     <section>
         <div id="1div">
-            <img id="imglogo" src="logonexus.png"> <h3 class="textnx">NEXUS Coporation &copy;</h3>
+            <a href="home.html" target="_self" rel="prev"><img id="imglogo" src="logonexus.png"></a> <h3 class="textnx">NEXUS Corporation &copy;</h3>
         </div>
         <div>
-            <h3 id="h3login">FAZER LOGIN</h3>
+            <h3 id="h3login">Entrar</h3>
             <hr id="traçop">
-            📩 <input placeholder="Insira seu E-mail" type="email" id="inputemail">
+            <input placeholder="E-mail" type="email" id="inputemail">
         </div>
         <br>
         <div>
-            🔑 <input placeholder="Insira sua Senha" type="password" id="inputsenha">
+            <input placeholder="Senha" type="password" id="inputsenha">
         </div>
         <input type="radio" id="lembrarradio"> <p id="pltxt">Lembrar-me</p>
-        <p id="erroemail"> </p>  
+        <p id="erroemail"> </p> 
+        <p id="errosenha"> </p>
         <br>
         <button id="loginbotão">Confirmar</button>
         <br>
         <br>
         <div id="divcadastro">
-            <a href="">Esqueceu a senha? </a> | <a href=""> Cadastrar</a>
+            Não tem uma conta? | <a href="cadastro.html"> Criar conta</a>
         </div>
         <footer>&copy; FELIPY</footer>
     </section>
-
 
     <script src="login.js"></script> 
     

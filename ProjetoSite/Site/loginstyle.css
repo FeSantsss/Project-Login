@@ -1,15 +1,15 @@
 body{
-    background-color: rgba(69, 69, 91, 0.926);
+    background-color: rgba(81, 81, 166, 0.926);
 }
 section{
     background-color: whitesmoke;
     margin: auto;
-    padding: 10px;
+    padding: 50px;
     border-radius: 15px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.437);
     width: 35%;
     text-align: center;
-    margin-top: 120px;
+    margin-top: 150px; 
 }
 #imglogo{
     width: 60px;
@@ -28,24 +28,26 @@ section{
     padding: 15px;
 }
 #inputemail{
-    border-radius: 5px;
+    border-radius: 19px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 270px;
+    width: 300px;
+    height: 25px;
     background-color: rgba(128, 128, 128, 0.499);
     padding: 5px;
 }
 #inputsenha{
-    border-radius: 5px;
-    width: 270px;
+    border-radius: 19px;
+    width: 300px;
+    height: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgba(128, 128, 128, 0.499);
     padding: 5px;
 } 
 #loginbotão{
-    border-radius: 5px;
+    border-radius: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgba(16, 248, 66, 0.466);
-    width: 200px;
+    width: 250px;
     height: 30px;
 }
 footer{
@@ -55,7 +57,7 @@ footer{
     margin-top: -25px;
 }
 #divcadastro{
-    padding: 10px;
+    padding: -10px;
 }
 #lembrarradio{
     width: 30px;

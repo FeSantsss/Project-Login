@@ -1,0 +1,83 @@
+body{
+    background-color: rgba(19, 19, 128, 0.444);
+}
+section{
+    background-color: whitesmoke;
+    margin: auto;
+    padding: 35px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.437);
+    width: 35%;
+    text-align: center;
+    margin-top: 150px; 
+}
+#imglogo{
+    width: 60px;
+    margin-left: -450px;
+    padding: 10px;
+}
+.textnx{ 
+    margin-top: -47px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+    margin-left: -220px;
+}
+#h3login{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -230px;
+    padding: 15px;
+}
+#tagname{
+    border-radius: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    height: 25px;
+    background-color: rgba(128, 128, 128, 0.499);
+    padding: 5px;
+}
+#inputemail{
+    border-radius: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    height: 25px;
+    background-color: rgba(128, 128, 128, 0.499);
+    padding: 5px;
+}
+#inputsenha{
+    border-radius: 19px;
+    width: 300px;
+    height: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(128, 128, 128, 0.499);
+    padding: 5px;
+} 
+#loginbotão{
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(16, 248, 66, 0.466);
+    width: 250px;
+    height: 30px;
+}
+footer{
+    padding: 15px;
+}
+#traçop{
+    margin-top: -25px;
+}
+#divcadastro{
+    padding: -10px;
+}
+#lembrarradio{
+    width: 30px;
+    height: 20px;
+    margin-left: -190px;
+    margin-top: 20px;
+
+}
+#pltxt{
+    margin-top: -24px;
+    margin-left: -80px;
+}
+hr{
+    padding: 5px;
+}
